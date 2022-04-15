@@ -20,4 +20,14 @@ https://explorer.testnet.near.org/transactions/DTjMv4XuLxbQ5jLqZgAqBJVgkLTytzNZD
 ![p1task3](https://user-images.githubusercontent.com/81109748/163561871-878378ae-ee59-41e8-885f-1d93778b03df.png)
 
 
+**NEAR Developer Course > Practice II**
+
+**TASK 4:**
+
+https://explorer.testnet.near.org/transactions/9fkEs8oBEDkUU8tFhQSaBNteGcCMNgWYG7wyxFnSAQWa
+
+![task 4](https://user-images.githubusercontent.com/81109748/163572732-017be18f-d01b-4bbd-b0dc-5d06bed5e25e.png)
+
+
+
 
